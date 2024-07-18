@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://github.com/miladrahmat/42-badges/blob/master/badges/get_next_linem.png"> <img width=15% src="https://github.com/user-attachments/assets/1f7290fc-1559-453c-ab19-e7acd1c7fd1e"> 
+  <img src="https://github.com/user-attachments/assets/361f8baf-2ae6-4856-8bc0-25f4bcf12ae5"> <img width=16% src="https://github.com/user-attachments/assets/1f7290fc-1559-453c-ab19-e7acd1c7fd1e"> 
 </p>
 
 
