@@ -1,8 +1,3 @@
-<p align=center>
-  <img src="https://github.com/user-attachments/assets/361f8baf-2ae6-4856-8bc0-25f4bcf12ae5"> <img width=16% src="https://github.com/user-attachments/assets/1f7290fc-1559-453c-ab19-e7acd1c7fd1e"> 
-</p>
-
-
 # get_next_line
 The get_next_line function is a utility designed to read and return the next line from a file descriptor. It is particularly useful for reading text files line-by-line, making it a fundamental function for many applications dealing with file I/O operations. This function handles both normal text files and larger input streams, efficiently managing memory to ensure seamless operation.
 
@@ -24,12 +19,7 @@ char *get_next_line(int fd);
 * Returns a null-terminated string representing the next line from the file descriptor, including the newline character if present.
 * Returns NULL if there is an error or if the end of the file is reached and no more lines are available.
 
-### Example Usage
-Here's an example of how you might use get_next_line in a simple program:
 
-![image](https://github.com/user-attachments/assets/2406c7aa-6ca1-4d78-a29b-58d1b312c5a3)
-
- 
 ## Implementation Details
 The get_next_line function relies on several helper functions to manage its operations:
 
